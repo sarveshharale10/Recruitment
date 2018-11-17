@@ -1,0 +1,39 @@
+td.header{
+	font-family: "arial";
+	font-size: 16pt;
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+input.button {
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  background-color: dodgerblue;
+}
+
+
+td.label{
+
+}
+
+body{
+	font-family: "arial";
+	font-size: 12pt;
+}
+
+input.button{
+	background-color: #3e4d63;
+	color: white;
+}
+
+.error{
+	color: red;
+}
